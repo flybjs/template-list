@@ -1,0 +1,10 @@
+{
+  "templateList": [
+    {
+      "url": "https://gitee.com/lubanjs-templates/mpa-basic.git",
+      "branch": "master",
+      "name": "mpa-basic 多页面模版",
+      "description": "mpa-basic 多页面模版"
+    }
+  ]
+}
